@@ -22,7 +22,7 @@
 
   --oui-color-success: 41 233 169;
   --oui-color-success-light: 101 240 194;
-  --oui-color-success-darken: 8 247 143;
+  --oui-color-success-darken: 41 233 169;
   --oui-color-success-contrast: 255 255 255;
 
   --oui-color-warning: 255 209 70;
@@ -49,7 +49,7 @@
 
   --oui-color-trading-loss: 248 32 94;
   --oui-color-trading-loss-contrast: 255 255 255;
-  --oui-color-trading-profit: 8 247 143;
+  --oui-color-trading-profit: 41 233 169;
   --oui-color-trading-profit-contrast: 255 255 255;
 
   /* gradients */
